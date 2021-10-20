@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/divyarana988/resumeBuilder/static/css/main.ff5163ee.chunk.css",
+    "main.js": "/divyarana988/resumeBuilder/static/js/main.38368fef.chunk.js",
+    "main.js.map": "/divyarana988/resumeBuilder/static/js/main.38368fef.chunk.js.map",
+    "runtime-main.js": "/divyarana988/resumeBuilder/static/js/runtime-main.4450f418.js",
+    "runtime-main.js.map": "/divyarana988/resumeBuilder/static/js/runtime-main.4450f418.js.map",
+    "static/js/2.856f6ff8.chunk.js": "/divyarana988/resumeBuilder/static/js/2.856f6ff8.chunk.js",
+    "static/js/2.856f6ff8.chunk.js.map": "/divyarana988/resumeBuilder/static/js/2.856f6ff8.chunk.js.map",
+    "static/js/3.18efbad9.chunk.js": "/divyarana988/resumeBuilder/static/js/3.18efbad9.chunk.js",
+    "static/js/3.18efbad9.chunk.js.map": "/divyarana988/resumeBuilder/static/js/3.18efbad9.chunk.js.map",
+    "static/js/4.6e8a034f.chunk.js": "/divyarana988/resumeBuilder/static/js/4.6e8a034f.chunk.js",
+    "static/js/4.6e8a034f.chunk.js.map": "/divyarana988/resumeBuilder/static/js/4.6e8a034f.chunk.js.map",
+    "index.html": "/divyarana988/resumeBuilder/index.html",
+    "static/css/main.ff5163ee.chunk.css.map": "/divyarana988/resumeBuilder/static/css/main.ff5163ee.chunk.css.map",
+    "static/js/2.856f6ff8.chunk.js.LICENSE.txt": "/divyarana988/resumeBuilder/static/js/2.856f6ff8.chunk.js.LICENSE.txt",
+    "static/js/3.18efbad9.chunk.js.LICENSE.txt": "/divyarana988/resumeBuilder/static/js/3.18efbad9.chunk.js.LICENSE.txt",
+    "static/js/4.6e8a034f.chunk.js.LICENSE.txt": "/divyarana988/resumeBuilder/static/js/4.6e8a034f.chunk.js.LICENSE.txt",
+    "static/media/aboutus.48416021.jpg": "/divyarana988/resumeBuilder/static/media/aboutus.48416021.jpg",
+    "static/media/resume.352231ef.png": "/divyarana988/resumeBuilder/static/media/resume.352231ef.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4450f418.js",
+    "static/js/2.856f6ff8.chunk.js",
+    "static/css/main.ff5163ee.chunk.css",
+    "static/js/main.38368fef.chunk.js"
+  ]
+}
